@@ -75,6 +75,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\application.css" />
+    <Content Include="css\toolkit-inverse.css" />
+    <Content Include="Dashboard.html" />
+    <Content Include="Datatable.html" />
+    <Content Include="scripts\application.js" />
+    <Content Include="scripts\popper.js" />
+    <Content Include="scripts\tablesorter.js" />
+    <Content Include="scripts\toolkit.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
